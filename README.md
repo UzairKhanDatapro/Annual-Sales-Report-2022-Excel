@@ -14,6 +14,9 @@ This repository contains the annual sales report for Vrinda Store, created by a 
 
 - Insights and recommendations: Based on the analysis, the report provides actionable insights and recommendations to help Vrinda Store improve their sales. This includes targeting specific customer segments and utilizing online ads to reach the target audience effectively.
 
+- Dashboard Visualization on Excel: In addition to the annual sales report, I have also created an amazing dashboard visualization on Excel. The dashboard is designed to be easy to read and provides a visual representation of the key insights and findings from the sales analysis.
+
+
 # Usage:
 
 To access the annual sales report for Vrinda Store, follow these steps:
